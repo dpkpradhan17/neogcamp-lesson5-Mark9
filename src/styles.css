@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#state {
+  padding: 1rem;
+}
+
+span {
+  padding: 0.5rem;
+  font-size: 1.66rem;
+  cursor: pointer;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-radius: 1rem;
+  margin-left: 2rem;
+  background-color: gray;
+}
+
+li {
+  border: 1px solid black;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  margin: 1rem;
+  list-style: none;
+  box-sizing: inherit;
+}
+
+#foodName {
+  color: violet;
+  font-size: 1.7rem;
+  padding-left: 0.5rem;
+  margin: 0.5rem;
+}
+
+#rate {
+  padding-left: 0.5rem;
+  margin: 0.5rem;
+}
+
+P {
+  color: orange;
+}
